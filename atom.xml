@@ -4,7 +4,7 @@
   <title><![CDATA[James Blog]]></title>
   <link href="http://jameszhiming.github.io/atom.xml" rel="self"/>
   <link href="http://jameszhiming.github.io/"/>
-  <updated>2016-01-10T15:04:05+08:00</updated>
+  <updated>2016-01-10T16:47:51+08:00</updated>
   <id>http://jameszhiming.github.io/</id>
   <author>
     <name><![CDATA[James]]></name>
@@ -14,13 +14,13 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Mm]]></title>
-    <link href="http://jameszhiming.github.io/blog/2016/01/08/jzm%20-%20%E5%89%AF%E6%9C%AC/"/>
+    <title type="html"><![CDATA[Jzm]]></title>
+    <link href="http://jameszhiming.github.io/blog/2016/01/08/jzm/"/>
     <updated>2016-01-08T19:13:15+08:00</updated>
-    <id>http://jameszhiming.github.io/blog/2016/01/08/jzm - 副本</id>
+    <id>http://jameszhiming.github.io/blog/2016/01/08/jzm</id>
     <content type="html"><![CDATA[<h1>博客</h1>
 
-<h2>蒋志明的测试博客</h2>
+<h2>蒋志明的第一个博客</h2>
 
 <p><strong>你想学习怎么制作博客么</strong></p>
 
@@ -40,9 +40,9 @@
   
   <entry>
     <title type="html"><![CDATA[Jzm]]></title>
-    <link href="http://jameszhiming.github.io/blog/2016/01/08/jzm/"/>
+    <link href="http://jameszhiming.github.io/blog/2016/01/08/hello/"/>
     <updated>2016-01-08T19:13:15+08:00</updated>
-    <id>http://jameszhiming.github.io/blog/2016/01/08/jzm</id>
+    <id>http://jameszhiming.github.io/blog/2016/01/08/hello</id>
     <content type="html"><![CDATA[<h1>博客</h1>
 
 <h2>蒋志明的第一个博客</h2>
