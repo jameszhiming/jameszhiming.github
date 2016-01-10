@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://jameszhiming.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 123 | My Octopress Blog]]></title>
+  <link href="http://jameszhiming.github.io/blog/categories/123/atom.xml" rel="self"/>
   <link href="http://jameszhiming.github.io/"/>
   <updated>2016-01-10T11:56:10+08:00</updated>
   <id>http://jameszhiming.github.io/</id>
@@ -28,13 +28,10 @@
 
 <p><a href="http://www.baidu.com">制作秘籍</a></p>
 
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>public class jzm{
-</span><span class='line'>  conlose.log("你真帅")
-</span><span class='line'>}</span></code></pre></td></tr></table></div></figure>
-
+<pre><code>public class jzm{
+    conlose.log("你真帅")
+}
+</code></pre>
 ]]></content>
   </entry>
   
